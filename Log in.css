@@ -1,0 +1,18 @@
+*{
+margin: 0%;
+padding: 0%;
+
+}
+body{
+    background-color: rgb(16, 228, 199);
+    background-size: 100% 740px;
+
+}
+.contain{
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    color: white;
+    margin-left: 36%;
+    
+}
